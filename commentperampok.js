@@ -1,8 +1,6 @@
-<div id='fb-root'/>
-<script type='text/javascript'>
 //<![CDATA[
 var disqus_shortname="USERNAME DISQUS";
-var disqus_url = disqus_blogger_current_url;
+var disqus_url = perampokgoogle;
 
 (function () {
     "use strict";
